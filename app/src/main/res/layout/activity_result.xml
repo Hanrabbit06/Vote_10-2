@@ -93,7 +93,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/tv6"
             android:layout_gravity="center_vertical"
-            android:text="우리집 고양이보고갈래?"
+            android:text="우리집 고양이 보고 갈래?"
             android:textSize="15sp"
             />
         <RatingBar
